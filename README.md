@@ -3,7 +3,7 @@ Hi, my name is Michael and I'm currently a high school senior who's looking to p
 
 Coming from a family that values technology, a thirst for knowledge, and exploration, at a young age I knew that I wanted to be some sort of engineer, someone who sparks innovation. Automation will drastically evolve with life-improving advancements, and my dream is to help further our current technology with my own studies of data analytics and software engineering.
 
-Besides data science and automating tasks, I also love motion graphics, video editing, art and cinematography.
+Besides data science and automating tasks, I also love motion graphics, video editing, art, and cinematography.
 
 # About my projects
 Everything here is a collection of projects that I've worked on in the past year, either from school assignments or my own personal projects. All of my personal projects were created with Python, while all of my school assignments have either been created in Visual Studio or with a java IDE.
