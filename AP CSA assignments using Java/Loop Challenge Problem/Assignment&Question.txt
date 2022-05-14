@@ -1,0 +1,9 @@
+* 75% - Write a for loop (looping 10 times) that generates 3 random numbers (between 1 and 50) and outputs the largest each time (with a useful print statement).
+     "The largest number of (12, 43, 7) is 43"
+* 15% - keep a running total of the largest number found each time you loop and print that total at the end
+* 10% - Learn how to store the largest number of each cycle of the loop into an array and print the list of numbers at the end.
+Use replit.com to write the program in java and copy the link to your program below. 
+This will be worth a test grade. Try to work independently on this problem. 
+** I tried to not look up anything while doing it and had to look up the array creation part, I used an array list so I could use the add function. If you do that you need to remember you have to import the Arraylist package. import java.util.ArrayList;
+You may want to look over 7.1 on Runestone for some help with that. 
+A picture below of my output. 
