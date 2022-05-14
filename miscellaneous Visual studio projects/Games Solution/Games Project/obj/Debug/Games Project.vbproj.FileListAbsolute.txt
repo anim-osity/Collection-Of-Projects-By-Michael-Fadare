@@ -1,0 +1,37 @@
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Galore.mdf
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Galore_log.ldf
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.exe.config
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.exe
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.pdb
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.xml
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games_Project.frmMain.resources
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games_Project.Resources.resources
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.exe
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.xml
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.pdb
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Galore.mdf
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Galore_log.ldf
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.exe.config
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.exe
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.pdb
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.xml
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games_Project.frmMain.resources
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games_Project.Resources.resources
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.exe
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.xml
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.pdb
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games Project.vbprojResolveAssemblyReference.cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games_Project.frmMain.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games_Project.Resources.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games Project.vbproj.GenerateResource.Cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games Project.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games Project.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\obj\Debug\Games Project.pdb
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\bin\Debug\Galore.mdf
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\bin\Debug\Galore_log.ldf
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\bin\Debug\Games Project.exe.config
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\bin\Debug\Games Project.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\bin\Debug\Games Project.pdb
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Games Solution\Games Project\bin\Debug\Games Project.xml
