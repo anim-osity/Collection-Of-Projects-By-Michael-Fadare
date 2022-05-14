@@ -1,1 +1,2 @@
-The purpose of this script is to read a google spread sheet, and store the contents of the sheet on a github repository to be referenced later. I discontinued this because I found a better solution.
+The purpose of this script is to read a google spread sheet, and store the contents of the sheet on a github repository to be referenced later.
+I discontinued this because I found a better solution.
