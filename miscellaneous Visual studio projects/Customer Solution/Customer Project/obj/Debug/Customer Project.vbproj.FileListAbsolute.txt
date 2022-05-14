@@ -1,0 +1,11 @@
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer Project.vbprojResolveAssemblyReference.cache
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer_Project.Form1.resources
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer_Project.Resources.resources
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer Project.vbproj.GenerateResource.Cache
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\bin\Debug\Customer Project.exe.config
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\bin\Debug\Customer Project.exe
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\bin\Debug\Customer Project.pdb
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\bin\Debug\Customer Project.xml
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer Project.exe
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer Project.xml
+c:\users\programming\documents\visual studio 2017\Projects\Customer Solution\Customer Project\obj\Debug\Customer Project.pdb
