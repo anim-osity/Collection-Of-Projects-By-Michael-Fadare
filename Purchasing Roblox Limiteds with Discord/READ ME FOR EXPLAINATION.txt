@@ -1,0 +1,2 @@
+The purpose of this bot is to use a mixture of api requests and simulated clicks to purchase Roblox limiteds once they reach a specified price threshhold. The bot uses a discord channel that has a bot which sends messages whenever roblox limiteds are sold for more than 30% lower than it's Recent Average Price, and filters these messages for my specific conditions.
+For example, if a roblox limited was selling for 40% under it's RAP, it would attempt to buy said limited. 
