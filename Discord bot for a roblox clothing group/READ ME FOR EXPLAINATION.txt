@@ -1,0 +1,1 @@
+This bot was created as a commission for a roblox clothing group. It provides information about a user's clothing inventory that corresponds to the group. For example, using !!Anim_osity will display the number of total products the user has purchased from the group, and will display the deserved ranking of the user within the group.
