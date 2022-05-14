@@ -1,0 +1,39 @@
+class Main
+{
+	public static String[] combineNames(String[] first_names,   String[] last_names)
+
+	{
+         // defined the length of the new array as the length of the first names array, assuming that both the first names array and last names arrays are the same 
+          String[] Fulllnames = new String[first_names.length];
+
+        // does the loop depending on the length of the first names array 
+        for (int i = 0; i < first_names.length; i++) {
+  
+            
+            
+            String first = first_names[i];
+            String last = last_names[i];
+
+            String Fullname = first + " " + last;
+            
+            Fulllnames[i] = Fullname;
+            
+        }
+		
+        return Fulllnames;
+	}
+	
+	public static void main(String[] args)
+	{
+	
+    String[] first_names = new String[] {"bob", "joe"};
+    String[] last_names = new String[] {"jones", "smith"};
+
+    combineNames(first_names,last_names);
+    
+
+
+
+
+	}
+}
