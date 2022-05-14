@@ -1,0 +1,567 @@
+  (SWITCH CASES COMPARING STRINGS)
+
+Example
+Select Case strWarehouse
+	Case “A”
+		lblLocation.Text = “Tennessee”
+	Case “B”
+		lblLocation.Text = “Louisiana”
+	Case “C”, “D”
+		lblLocation.Text = “Kentucky”
+	Case Else
+		lblLocation.Text = “N/A”
+End Select
+
+(SWITCH CASES COMPARING INTS)
+
+Example
+Select Case intQuantity
+	Case 1 to 5
+		intPrice = 25
+	Case 6 to 10
+		intPrice = 23
+	Case Is > 10
+		intPrice = 20
+	Case Else	
+		intPrice = 0
+End Select
+
+(ToUpper and ToLower)
+
+string.ToUpper - Converts the contents of the string to all uppercase letters
+string.ToLower - Converts the contents of the string to all lowercase letters
+
+Examples
+StrName = strName.ToUpper
+txtState.Text = txtState.Text.ToLower
+
+(TRIM METHOD)
+
+string.Trim - removes any leading and trailing spaces from the string
+
+Examples
+If txtState.Text.Trim.ToUpper = “LA” Then
+txtName.Text = txtName.Text.Trim
+(IF ELSE STATEMENT)
+
+Example
+If txtCode.Text.Trim.ToUpper = “FREESHIP” Then
+	intShipping = 0 
+Else 
+	intShipping = 5
+End If
+
+(COMPARISON OPERATORS)
+
+Operator                     Operation
+=			equal to
+>			greater than
+>=			greater than or equal to
+<			less than
+<=			less than or equal to
+<>			not equal to			
+
+Examples
+If strState = “IL” Then
+If decHours > 40 Then
+If decMax >= 75.65D Then
+if  strContinue <> “N” Then
+If blnIsInsured = True Then 
+
+If intPurchased >= 5 Then 
+dblDiscount = dbTotalDue * dbDISCOUNT_RATE
+dblTotalDue = dbTotalDue - dblDiscount
+End If
+
+(LOGICAL OPERATORS)
+
+Operator                     Operation
+Not			reverses the truth-value of the condition; True becomes False and
+False becomes True
+
+And 			both the initial condition and everything after the initial condition must be                                                                                             
+                                   True
+
+AndAlso 		Basically same thing as And, except it’s a short-circuit evaluation(if the ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀left operand is true and so the entire expression is guaranteed to be true ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀the right operand won't even be evaluated) 
+
+Or 			Only one of the subconditions has to be true for the compound condition 			            True  
+                                                                                  
+OrElse                         Same thing as Or, except it’s a short-circuit evaluation
+
+Xor			One and only one of the subconditions has to be true for the compound ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀condition to be True           
+                                     
+
+Examples
+If Not blnSenior Then 
+(This condition is True when the variable’s boolean value is False, otherwise it’s False
+Basically just:
+IfblnSenior = False Then) 
+
+If dblRate > 0 AndAlso dblRate < 0.15 Then
+
+If strCode = “1” OrElse decSales > 499.99D Then  
+(This compound condition is True if the strCode variable contains the string “1” or when the value of the decSales variable is greater than 4999.99; else it’s false)
+
+If strCoupon1 = “USE” Xor strCoupon2 = “USE” Then
+(This compound condition evaluates to True when only one of the variables contains “USE”, else it’s False)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mod - remainder
+
+(HOW TO DEFINE VARIABLES)
+
+Const statement- a value that cannot be changed while the application is running. 
+
+Examples
+Const dblPI As Double = 3.1459
+(declares the variable as a Double named constant and initialize it to the Double number 3.1459
+
+Dim dblRadius As Double
+(Allows you to declare variable names and their types. 
+Dim [Insert Variable Name] as [Insert data Type])
+
+(TYPES OF CONVERSION)
+
+Examples
+Double.TryParse(txtRadius.Text, dlbRadius)
+(Converts number values to String values 
+Double.TryParse([String variable], [number variable])
+
+Convert.toInt32(txtPrice.Text)
+(Converts Strings as numbers 
+Convert.toInt32([String variable])
+
+(TOSTRING METHODS)
+
+Format specifier                     Description
+C or n (For Currency)		displays the string with a dollar sign and includes a thousands 					separator; negative values are enclosed with parentheses
+
+N or n (Number)		similar to the Currency format but does not include a dollar sign 					and negative values have a minus sign
+
+P or P (Percent)		multiples the number variable by 100 and formats the result with a 				percent sign; negative values are preceded with a minus sign
+
+Examples
+intSales = 75000
+lblSales.text = int.Sales.ToString(“C2”)
+(Assigns the “$75,000,000” as the string value for lblSales)
+
+
+
+decTotal = 4599.639D
+lblTotal.Text = decTotal.ToString(“N2”)
+(Assigns the string “4,599.64” to lblTotal.Text)
+
+dblRate = 0.15
+lblRate.Text = dblRate.ToString(“P0”)
+(Assigns the string “15 %” to the lblRate.Text)
+
+(DO WHILE LOOPS)
+
+Syntax
+Do {While / Until} condition
+[loop body]
+Loop
+
+Examples
+Do While intNum <= 5
+lblNums.Text = lbl.Text & intNum.Tostring & “       “
+intNum += 1
+Loop
+
+
+Do Until intNUm > 5 
+lblNums.Text = lbl.Text & intNum.Tostring & “       “
+intNum += 1
+Loop
+
+(CONCATENATING STRINGS)
+
+
+
+
+(GOOGLED QUESTIONS)
+
+How do I program a button to close the application? - Me.Close()
+
+How do I prevent a radio button or checkbox from being automatically selected? In the button’s 
+properties, you'll find the AutoCheck property set to true. Just turn it to false.
+
+How do I change the size of a label? In the label’s properties, turn auto size to false 
+
+How do I change the text size of a button/ label? In the object’s font property, click on the 3 dots (...) and a box will open where you can change the font and text size
+
+How do I check if a radio button is checked? If RadioButton1. checked = true then.
+
+Why does using ‘$’ when i'm changing the text of a label give me an error?(In the form and not design) I fixed this by adding parentheses around the text (“$69.99”) 
+
+
+How do I make a text box take numbers, decimals, and the backspace only? 
+
+(Make sure to use the keypress event)
+
+ If Asc(e.KeyChar) <> 8 Then
+     If Asc(e.KeyChar) < 46 Or Asc(e.KeyChar) > 57 Or (Asc(e.KeyChar) < 48 And Asc(e.KeyChar) > 46) Then
+         e.Handled = True
+     End If
+ End If
+
+How do I make a textbox accept numbers and letters?
+
+  Dim allowed As String = ("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789")
+        For Each c As Char In txtCode.Text
+            If allowed.Contains(c) = False Then
+                txtCode.Text = txtCode.Text.Remove(txtCode.SelectionStart - 1, 1)
+                txtCode.Select(txtCode.Text.Count, 0)
+            End If
+        Next
+
+
+How do I make a textbox take numbers and the backspace only? 
+(Make sure to use the keypress event)
+
+   If Not Char.IsNumber(e.KeyChar) AndAlso Not Char.IsControl(e.KeyChar) Then e.KeyChar = CChar("")
+    End Sub
+
+How do I make a textbox accept only numbers and hyphens?  
+(Make sure to use the keypress event)
+
+   If (e.KeyChar < "0" OrElse e.KeyChar > "9") AndAlso e.KeyChar <> ControlChars.Back AndAlso e.KeyChar <> "-"c Then ' Accepts only numbers and hyphens 
+            e.Handled = True
+        End If
+
+
+
+
+
+
+
+
+
+
+
+
+How do I make a select case based on radio buttons? 
+First thing I did was make a boolean, and then for each radio button’s change check, I put it as the boolean’s value 
+ 
+
+How do I decimal format a variable for currency? [variable].ToString(“C”)
+
+How do I add text to a variable being displayed? Use & (“ “)
+ 
+
+Whenever a textbox becomes empty, I get an exception error and the program closes, how do I fix this?
+ Double.TryParse(TextBox1.Text, [variable])
+
+How do I round up a decimal no matter what it is to the nearest number?
+Math.Ceiling([variable])
+
+When the user presses tab to get to a textbox, how do I make the text of the textbox selected? 
+Private Sub txtGuests_GotFocus(sender As Object, e As EventArgs) Handles txtGuests.GotFocus
+        txtGuests.SelectAll()
+    End Sub
+
+How do I make a radio button unclickable?
+RadioButton6.Enabled = False
+
+How do I use a sub procedure to clear the input? 
+
+Private Sub ClearGrade(sender As Object, e As EventArgs) Handles Yes.CheckChanged
+        .Text = String.Empty
+    End Sub
+
+
+
+
+
+
+
+
+
+How do I confirm the user wants to exit the application through a button click? 
+ 
+  Private Sub btnExit_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+
+        If MessageBox.Show("Are you sure you want to exit?", " ", MessageBoxButtons.YesNo) = DialogResult.Yes Then ' Prompt a confirmation message if the user wants to close the application 
+            Me.Close() ' If the user clicks yes for the exit message then the application closes 
+        End If
+    End Sub
+
+How do I replace characters in a string? 
+
+Dim Test As String = Me.strIsbn.Text.Replace("-", "")  ' Removes the hyphens from the ISBN
+
+How do I compare the last character in a string with another string? 
+
+(Test.EndsWith(CheckDigit))
+
+How do I find the character in a specific position in a string? 
+
+ lblColor.Text = Userinput(2)
+
+How do I capitalize the first letter in a string? 
+
+String = StrConv(String, VbStrConv.ProperCase)
+
+How do I check if a string has a space in it? 
+
+If InStr(String, " ") > 0 Then 
+
+End If
+
+How do I store all the characters in a string leading up to the first space? 
+
+FirstName = Mid(Userinput, 1, intSpaceIndex + 1) ' Stores the first name as all the characters leading up to the initial space and then adds 1 to include the space 
+How do I get the focus of a textbox? 
+
+TextBox1.Focus()
+
+How do I check if a string starts with another string? 
+
+
+If zip Like "4210*" Then 
+
+End if 
+
+How do I loop through a string to compare characters individually? 
+
+For counter = 1 To Len(strALPHABET) - 1 ' Does this loop for the length of the strALPHABET string which is 26 
+
+                If (Mid(strALPHABET, counter, 1)) <> FirstCharacter Then ' Goes through each character within the strALPHABET variable and compares it with the FirstCharacter variable, if the character is not the first character then it adds 1 to the count 
+                    Test += 1 ' Adds one to the Test variable every time the character tested is not equal to the first character
+                End If
+                If (Mid(strALPHABET, counter, 1)) = FirstCharacter Then ' If the tested character is equal to the first character then it adds one to the test variable because it's one off because of the structure of my loop 
+                    Test += 1
+                    Exit For ' If the First character and the tested character are equal then the loop ends 
+
+                End If
+
+
+            Next
+
+How do I end a loop once a condition is met? 
+
+Exit for 
+
+How do I select items in a list box ?
+
+lstdelievery.SelectedIndex = 2
+
+How do I check if the first character in a string is a number?
+
+If (IsNumeric(txtCode.Text(0)) = True)
+
+How do I find the highest number in an array?
+
+Dim dblHighest As Double = Array.Max 
+
+How do I find the total number of inputs in an array? 
+
+ Do While counter <= UBound(Array)
+            counter += 1
+        Loop
+
+How do I add the items in an array to a list?
+
+For Each dblStockPrice As Double In dblPrices
+            lstPrices.Items.Add(dblStockPrice.ToString("N2"))
+        Next dblStockPrice
+
+How do I add to a listbox?
+
+ Listbox.Items.Add(String)
+
+How do I clear the items in a listbox?
+
+Listbox.Items.Clear() 
+
+How do I clear the text of a label?
+
+lblNumber.Text = “”
+
+How do I select the first item in the listbox from the start?
+   Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles Me.Load
+        ' Selects the first pay code in the list box.
+
+        lstCodes.SelectedIndex = 0
+    End Sub
+
+How do I get the total number of items in a list box?
+
+listbox.Items.Count
+
+How do I get a specific item in a listbox?
+
+Listbox.Items.Item(0)
+
+How do I use the form main closing procedure? 
+
+ Private Sub frmMain_FormClosing(sender As Object, e As System.Windows.Forms.FormClosingEventArgs) Handles MyBase.FormClosing
+
+
+End Sub
+
+How do I prevent a form from being closed? 
+
+e.Cancel = True 
+
+How do I code an enter key procedure? 
+
+Private Sub FirstName_KeyDown(sender As Object, e As KeyEventArgs) Handles FirstName.KeyDown
+        If e.KeyCode = Keys.Enter Then
+            FirstNamee = FirstName.Text
+        End If
+    End Sub
+
+How do I go to the next textbox when I press enter?
+LastName.Focus()
+
+How do make the message box have an exclamation mark icon? 
+
+  MessageBox.Show("Please provide a filename.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+
+Messagebox YesNo 
+
+Dim result As DialogResult = MessageBox.Show("message", "caption", MessageBoxButtons.YesNoCancel)
+If result = DialogResult.Cancel Then
+    MessageBox.Show("Cancel pressed")
+ElseIf result = DialogResult.No Then
+    MessageBox.Show("No pressed")
+ElseIf result = DialogResult.Yes Then
+    MessageBox.Show("Yes pressed")
+End If
+
+How do I convert a string to a double? 
+
+Dim vIn As String
+vIn = "69"
+
+Dim vOut As Double
+vOut = CDbl(vIn)
+
+How do I increment a value in a for loop?
+
+For TemporaryValue As Double = 1 to 5 Step 2
+next
+
+How do I allow only 1 decimal place in a textbox? 
+
+If (textbox5.Text.IndexOf(".") >= 0 And e.KeyChar = ".") Then e.Handled = True
+
+How do I find the location of a string within a string? 
+
+  If (InStr(txtCheckAmount.Text, periodt) - txtCheckAmount.MaxLength > 3) Then
+            Label2.Text = InStr(txtCheckAmount.Text, periodt)
+        End If
+
+
+
+
+
+
+
+
+
+
+
+How do I allow only 2 places after a decimal in a textbox? (keypress event)
+
+Dim periodt As String = "."
+
+        Dim position As Integer = txtCheckAmount.Text.IndexOf(periodt)
+
+        If (position > 0) Then
+            txtCheckAmount.MaxLength = position + 3
+        End If
+
+ If (position = -1) Then
+            txtCheckAmount.MaxLength = 32767
+        End If
+
+How do I convert a double or integer to a string? 
+
+Dim vOut As String
+vOut = CStr(double)
+
+How do I go to the next line for a textfile? (works good for when you’re using methods)
+
+ Using writer As New StreamWriter("Checks.txt", True)
+            writer.WriteLine(CheckInformation.Write(Amount, Number, CheckDate))
+            writer.WriteLine(" ")
+        End Using
+
+How do I add to a textfile without overriding it? 
+Reference above question
+
+How do I get the text of a selected item in a listbox? 
+Dim Test1 As Integer = lstTest1.Text
+
+How do I convert a string to a double or integer?
+
+Double.TryParse(String, Double)
+
+
+
+
+
+
+
+Datafiles SQL thingy save item try catch 
+
+      Try
+            Me.Validate()
+            Me.SalesBindingSource.EndEdit()
+            Me.TableAdapterManager.UpdateAll(Me.CookiesDataSet)
+
+            MessageBox.Show("Changes saved.", "Course information", MessageBoxButtons.OK, MessageBoxIcon.Information)
+
+        Catch ex As Exception
+            MessageBox.Show(ex.Message, "Course information", MessageBoxButtons.OK, MessageBoxIcon.Information)
+        End Try
+
+How do I add all the total values in a column in a datagridview? 
+
+  Dim Counter As Integer = 0
+
+        For Each R As DataGridViewRow In CoursesDataGridView.Rows
+            Counter += R.Cells(3).Value
+
+        Next R
+
+        lblTitle.Text = Counter
+
+How do I get the total number of rows in a datagridview? 
+
+CoursesDataGridView.RowCount - 1
+
+How do I make a radio button checked? 
+
+RadioButton.PerformClick()
+
+How do I comment a line in a web site application? (pretty sure this works in general)
+
+CTRL + K + C
+
+How do I calculate pi? 
+
+Public Function GetPi() As Double
+    ' Calculate the value of pi.
+    Return 4.0 * Math.Atan(1.0)
+End Function
