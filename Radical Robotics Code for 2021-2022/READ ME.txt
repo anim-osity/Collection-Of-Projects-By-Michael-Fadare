@@ -1,2 +1,0 @@
-This is a collection of files that I created to help our robot compete in the 2021-2022 FIRST Tech Challenge. 
-Learn more about the compeititon here: https://www.firstinspires.org/robotics/ftc/game-and-season
