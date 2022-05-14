@@ -1,0 +1,22 @@
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe.config
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.pdb
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.xml
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.frmMain.resources
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.Resources.resources
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.exe
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.xml
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.pdb
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbprojResolveAssemblyReference.cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe.config
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.pdb
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbprojResolveAssemblyReference.cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.frmMain.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.Resources.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbproj.GenerateResource.Cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.pdb
