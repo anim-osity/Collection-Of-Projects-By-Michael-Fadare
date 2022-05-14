@@ -1,1 +1,5 @@
-The purpose these scripts was to create webhooks that will display specific things in embeded formats. The file with the name "RandomBot" is a discord bot that will generate randomized colored embeded welcome messages upon joining the server. You can view them here: https://discord.gg/vaxTnGZRV8
+The purpose these scripts was to create webhooks that will display specific things in embeded format.
+
+The file with the name "RandomBot" is a discord bot that will generate randomized colored embeded welcome messages upon joining the server. 
+
+You can view them here: https://discord.gg/vaxTnGZRV8
