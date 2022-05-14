@@ -1,0 +1,3 @@
+On line 5, declare an integer array of size 5 and assign the values 10, 20, 30, 40, and 50 to it.
+
+Then use a for loop to print out all the elements of the array, one per line.
