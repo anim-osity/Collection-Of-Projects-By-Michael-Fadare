@@ -1,0 +1,11 @@
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\bin\Debug\Serenity Project.exe.config
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\bin\Debug\Serenity Project.exe
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\bin\Debug\Serenity Project.pdb
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\bin\Debug\Serenity Project.xml
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity Project.vbprojResolveAssemblyReference.cache
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity_Project.Form1.resources
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity_Project.Resources.resources
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity Project.vbproj.GenerateResource.Cache
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity Project.exe
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity Project.xml
+c:\users\programming\documents\visual studio 2017\Projects\Serenity Solution\Serenity Project\obj\Debug\Serenity Project.pdb
