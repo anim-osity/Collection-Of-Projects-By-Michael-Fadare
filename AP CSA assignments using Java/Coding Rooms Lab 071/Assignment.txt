@@ -1,0 +1,5 @@
+
+DUE DATE
+No due date
+Unlimited Submissions
+Complete the timesTen method to take each element of arr and multiply its value by 10.  It should return its the array when finished.
