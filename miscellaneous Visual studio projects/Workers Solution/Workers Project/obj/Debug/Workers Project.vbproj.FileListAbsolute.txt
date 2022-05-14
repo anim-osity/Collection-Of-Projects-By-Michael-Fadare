@@ -1,0 +1,11 @@
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\bin\Debug\Workers Project.exe.config
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\bin\Debug\Workers Project.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\bin\Debug\Workers Project.pdb
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\bin\Debug\Workers Project.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers Project.vbprojResolveAssemblyReference.cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers_Project.frmMain.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers_Project.Resources.resources
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers Project.vbproj.GenerateResource.Cache
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers Project.exe
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers Project.xml
+C:\Users\Programming\Documents\Visual Studio 2017\Projects\Workers Solution\Workers Project\obj\Debug\Workers Project.pdb
