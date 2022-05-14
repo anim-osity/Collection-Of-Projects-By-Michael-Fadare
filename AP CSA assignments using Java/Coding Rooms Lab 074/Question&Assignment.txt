@@ -1,0 +1,1 @@
+Complete the avgElements method so that it will average all the elements in an integer array (passed to the method as a parameter) and return the average.
